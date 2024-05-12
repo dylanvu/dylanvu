@@ -1,4 +1,4 @@
-### Heyo, I'm Dylan 👌
+# Heyo, I'm Dylan 👌
 
 ## About Me
 
