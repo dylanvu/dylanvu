@@ -1,10 +1,18 @@
 ### Heyo, I'm Dylan 👌
+
 ## About Me
+
 Check out my [portfolio](https://dylanvu.com/)!
 
-## Skills
+- ✏️ 4th Year UC Irvine Computer Science, Software and Systems Specialization
+- 💻 Software Developer for both **Web Development** and **Firmware/Embedded Systems**
+- 🤖 Hardware and Robotics Enthusiast
+- 🏆 Hackathon Enjoyer
+- ⚙️ Mechanical Engineer --> ⚗️ Chemical Engineer --> 💻 Computer Science
 
+## App and Web
 
+## Firmware and Embedded
 
 <!--
 **dylanvu/dylanvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
