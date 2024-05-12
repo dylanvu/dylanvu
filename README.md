@@ -1,7 +1,5 @@
 # Heyo, I'm Dylan 👌
 
-## About Me
-
 Check out my [portfolio](https://dylanvu.com/)!
 
 - 🐜 Graduating UC Irvine, '24
@@ -11,11 +9,9 @@ Check out my [portfolio](https://dylanvu.com/)!
 - 🌱 Mentoring Others
 - 🎢 Figuring Out Life: ⚙️ Mechanical Engineer --> ⚗️ Chemical Engineer --> 💻 Computer Science
 
-## App and Web
+## Skills and Tech
 
 ![Web and App](https://github.com/dylanvu/dylanvu/blob/main/images/web_app_tech.png?raw=true)
-
-## Firmware and Embedded
 
 ![Firmware and Embedded](https://github.com/dylanvu/dylanvu/blob/main/images/firmware_hardware_tech.png?raw=true)
 
