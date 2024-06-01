@@ -11,6 +11,9 @@ Check out my [portfolio](https://dylanvu.com/)!
 
 ## Skills and Tech
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanvu)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![Web and App](https://github.com/dylanvu/dylanvu/blob/main/images/web_app_tech.png?raw=true)
 
 ![Firmware and Embedded](https://github.com/dylanvu/dylanvu/blob/main/images/firmware_hardware_tech.png?raw=true)
