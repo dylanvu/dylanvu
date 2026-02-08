@@ -5,7 +5,7 @@
 
 - 💻 Developing Software for both **Web Development** and **Firmware/Embedded Systems**
 
-- 🎢 Figuring Out Life: **⚙️ Mechanical Engineer --> ⚗️ Chemical Engineer --> 💻 Computer Science**
+- 🎢 Figuring Out Life: **⚙️ Mechanical Engineering --> ⚗️ Chemical Engineering --> 💻 Computer Science**
 
 - 🏆 Enjoying Hackathons
 
